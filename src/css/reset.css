@@ -1,0 +1,14 @@
+*{
+    margin: 0; /* Vai dar espaçamento externo nos elementos*/
+    padding: 0; /* Vai dar espaçamento interno nos elementos*/
+    box-sizing: border-box; /* Trabalhar com largura e altura dos elementos de forma mais facil */
+}
+
+ul{
+    list-style: none; /*  */
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
